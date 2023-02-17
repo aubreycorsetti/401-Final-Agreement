@@ -76,3 +76,7 @@ If we can’t come up with a unanimous resolution within 15 minutes then we will
 Take things step by step, talk about who would be best suited for that portion of the project. We will have open communication to find out when the projects are done.
 
 • What project management tool will be used? We will be using Trello
+
+### GitHub PR
+
+• Have two people approve pull requests!
